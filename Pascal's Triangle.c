@@ -1,8 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    int array[20][20];
-    int limit, space;
+    int array[20][20], limit, space;
     printf("how many rows do you want to print? ");
     scanf("%d", &limit);
     int b=limit;
